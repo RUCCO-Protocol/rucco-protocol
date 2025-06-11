@@ -47,7 +47,7 @@ This is an open source research project. Contributions to documentation and tech
 2. Create a documentation branch
 3. Submit a pull request with your improvements
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+See - **[CONTRIBUTING](./docs/CONTRIBUTING.md)** for detailed guidelines.
 
 ## License
 
