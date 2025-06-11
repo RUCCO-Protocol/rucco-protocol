@@ -32,10 +32,19 @@ This project is in early research and documentation phase. Code examples are for
 
 ```
 ruccoprotocol/
-├── docs/              # Technical documentation
-├── examples/          # Code examples (educational only)
-├── research/          # Research notes and analysis
-└── README.md          # This file
+├── docs/                          # Technical documentation
+│   ├── CONTRIBUTING.md             # Contribution guidelines
+│   ├── implementation-notes.md     # Implementation notes
+│   ├── technical-whitepaper.md     # Technical whitepaper
+│   └── token2022-integration.md    # Token-2022 integration guide
+├── examples/                      # Code examples (educational only)
+│   ├── basic-token-creation.js     # Basic Token-2022 example
+│   ├── fee-collection.js           # Fee withdrawal patterns
+│   └── multisig-setup.js           # Multi-signature setup
+├── research/                      # Research notes and analysis
+│   └── [research files to be added]
+├── COMMERCIAL-RIGHTS.md           # Commercial rights assignment
+└── README.md                      # Main documentation
 ```
 
 ## Contributing
