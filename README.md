@@ -39,11 +39,8 @@ ruccoprotocol/
 │   └── token2022-integration.md    # Token-2022 integration guide
 ├── examples/                      # Code examples (educational only)
 │   ├── basic-token-creation.js     # Basic Token-2022 example
-│   ├── fee-collection.js           # Fee withdrawal patterns
-│   └── multisig-setup.js           # Multi-signature setup
 ├── research/                      # Research notes and analysis
 │   └── [research files to be added]
-├── COMMERCIAL-RIGHTS.md           # Commercial rights assignment
 └── README.md                      # Main documentation
 ```
 
