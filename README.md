@@ -9,6 +9,15 @@
 
 This repository contains technical documentation and research for implementing decentralized coordination patterns using Solana's Token-2022 program extensions.
 
+## 🚨 Security Alert (Updated July 2025)
+**BEFORE implementing any patterns from this documentation:**
+- ✅ Verify all multisig contracts are open-source and non-upgradable
+- ✅ Use hardware wallets for all multisig operations
+- ✅ Never sign transactions through compromised frontends
+- ✅ Review [recent multisig attacks](https://blockworks.co/news/safe-exploit-comprehensive-review) and mitigations
+
+See [Security Checklist](./docs/SECURITY.md) for complete guidelines.
+
 ## Documentation
 
 - **[Technical Whitepaper](./docs/technical-whitepaper.md)** - Protocol specification and implementation patterns
