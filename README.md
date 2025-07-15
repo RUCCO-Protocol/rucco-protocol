@@ -20,6 +20,7 @@ See [Security Checklist](./docs/SECURITY.md) for complete guidelines.
 
 ## Documentation
 
+- **[Security Checklist](./docs/SECURITY.md)** - Critical security guidelines and best practices
 - **[Technical Whitepaper](./docs/technical-whitepaper.md)** - Protocol specification and implementation patterns
 - **[Implementation Notes](./docs/implementation-notes.md)** - Technical considerations and examples
 - **[Token-2022 Integration](./docs/token2022-integration.md)** - Solana Token-2022 usage patterns
@@ -45,6 +46,7 @@ ruccoprotocol/
 ├── docs/                          # Technical documentation
 │   ├── CONTRIBUTING.md             # Contribution guidelines
 │   ├── implementation-notes.md     # Implementation notes
+│   ├── security.md                 # Security checklist and guidelines
 │   ├── technical-whitepaper.md     # Technical whitepaper
 │   └── token2022-integration.md    # Token-2022 integration guide
 ├── examples/                      # Code examples (educational only)
