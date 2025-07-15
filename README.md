@@ -69,6 +69,9 @@ See - **[CONTRIBUTING](./docs/CONTRIBUTING.md)** for detailed guidelines.
 
 MIT License - see [LICENSE](./LICENSE) file for details.
 
+### Recent Security Developments
+Token-2022 program has been extensively audited through March 2025. However, infrastructure-level attacks on multisig providers have increased. Always verify signing environments and use multiple security layers.
+
 ## Disclaimers
 
 ### Educational Purpose
